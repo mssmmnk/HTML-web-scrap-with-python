@@ -4,6 +4,6 @@ this is a new webscrapping project. This project will be divided into 4 parts:
 
 -reading and separating words of my interest
 
--extraction and organization of this data for my stakeholder
+-extraction and organization of this data for stakeholders
 
 -creation of an automatic and interactive dashboard
