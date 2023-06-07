@@ -1,4 +1,4 @@
-this is a new webscrapping project. This project will be divided into 4 parts:
+this is a new webscrapping project. This project will be divided into 3 parts:
 
 -Automation of downloading files of interest from a website
 
