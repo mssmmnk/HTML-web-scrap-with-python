@@ -20,14 +20,11 @@ for row in first_table.find_all('tr'):
             break
         content.append(str(element))
 
-content = ''.join(content)
-
-content=[]
 
 filename= 'content.csv'
 
 with open(filename, 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerows(content)
+    writer.writerows([['data']] + [content])
 
 print('completed')
